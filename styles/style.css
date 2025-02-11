@@ -1,1 +1,63 @@
+.bg-info {
+    background-color: #A790A5 !important;
+}
 
+
+.navbar-light .navbar-brand, .navbar-light .navbar-nav .nav-link {
+    color: #162521;
+}
+
+.btn-info {
+    color: #CDD3D5;            
+    background-color: #3C474B;
+    border-color: #162521;
+}
+
+.btn-primary {
+    color: #CDD3D5;
+    font-size: 100%;
+    background-color: #3C474B;
+    border-color: #162521;
+    border-width: thin;
+}
+
+body {
+    background-color: #3C474B;
+}
+
+.navbar-brand{
+    font-family: 'Roboto', sans-serif;
+    font-size: 2.25rem;
+}
+
+.btn-outline-primary {
+    color: #A790A5;
+    border-color: #162521;
+}
+
+.btn-outline-primary:hover, .btn-outline-primary:focus {
+    color: #CDD3D5;
+    background-color: #A790A5;
+    border-color: #162521;
+}
+
+.btn-check:checked + .btn-outline-primary, .btn-check:active + .btn-outline-primary {
+    color: #CDD3D5;
+    background-color: #A790A5;
+    border-color: #162521;
+}
+
+.btn-secondary {
+    color: #CDD3D5;
+    background-color: #A790A5;
+    border-color: #162521;
+}
+
+.card-body {
+    color: #CDD3D5;
+}
+
+button#submit {
+    color: #CDD3D5;
+    background-color: #A790A5;
+}
